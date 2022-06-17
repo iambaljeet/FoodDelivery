@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodDelivery</string>
+    <string name="onboarding_title">Food For Everyone</string>
+    <string name="onboarding_screen_button_text">Get Started</string>
+</resources>
