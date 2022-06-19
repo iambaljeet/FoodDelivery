@@ -2,4 +2,13 @@
     <string name="app_name">FoodDelivery</string>
     <string name="onboarding_title">Food For Everyone</string>
     <string name="onboarding_screen_button_text">Get Started</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign-up</string>
+    <string name="email_label">Email Address</string>
+    <string name="email_placeholder">Your email address</string>
+    <string name="password_label">Password</string>
+    <string name="password_placeholder">********</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="name_label">Name</string>
+    <string name="name_placeholder">Enter your name</string>
 </resources>

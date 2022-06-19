@@ -26,27 +26,27 @@ val Typography = Typography(
     ),
     h2 = TextStyle(
         fontFamily = fonts,
-        fontWeight = FontWeight.SemiBold,
+        fontWeight = FontWeight.Bold,
         fontSize = 38.sp
     ),
     h3 = TextStyle(
         fontFamily = fonts,
-        fontWeight = FontWeight.Normal,
+        fontWeight = FontWeight.SemiBold,
         fontSize = 32.sp
     ),
     h4 = TextStyle(
         fontFamily = fonts,
-        fontWeight = FontWeight.Normal,
+        fontWeight = FontWeight.SemiBold,
         fontSize = 28.sp
     ),
     h5 = TextStyle(
         fontFamily = fonts,
-        fontWeight = FontWeight.Normal,
+        fontWeight = FontWeight.SemiBold,
         fontSize = 22.sp
     ),
     h6 = TextStyle(
         fontFamily = fonts,
-        fontWeight = FontWeight.Normal,
+        fontWeight = FontWeight.SemiBold,
         fontSize = 18.sp
     ),
     body1 = TextStyle(
@@ -61,12 +61,12 @@ val Typography = Typography(
     ),
     button = TextStyle(
         fontFamily = fonts,
-        fontWeight = FontWeight.SemiBold,
-        fontSize = 14.sp
+        fontWeight = FontWeight.Bold,
+        fontSize = 16.sp
     ),
     caption = TextStyle(
         fontFamily = fonts,
-        fontWeight = FontWeight.Light,
+        fontWeight = FontWeight.Normal,
         fontSize = 12.sp
     ),
     subtitle1 = TextStyle(
